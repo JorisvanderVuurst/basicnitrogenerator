@@ -12,3 +12,6 @@ cd basicnitrogenerator
 ```
 py basicnitrogenerator.py
 ```
+thats basically it:D
+
+dont care if u steal it do whatever!
